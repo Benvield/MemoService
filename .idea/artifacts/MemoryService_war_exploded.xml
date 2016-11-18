@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MemoryService:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MemoryService_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MemoryService/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MemoryService" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
